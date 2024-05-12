@@ -1,1 +1,1 @@
-This is a Terraform working with AWS provider example. The code should work with both Terraform Community Edition and HCP Terraform. For HCP remote mode, it should work under VCS, API and UI modes.
+This is a Terraform working with AWS provider example. The code should work with both Terraform Community Edition and HCP Terraform. For HCP remote mode, it should work under VCS, API and CLI driven modes.

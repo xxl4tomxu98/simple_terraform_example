@@ -1,5 +1,5 @@
 terraform {
-  /* During VCS mode, the Terraform Cloud backend will be used to store the state file.
+  /* During VCS driven mode, the Terraform Cloud backend will be used to store the state file.
   cloud {
     organization = "Team_Tom"
 
