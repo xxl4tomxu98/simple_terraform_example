@@ -1,6 +1,7 @@
 
 provider "aws" {
-    profile = "default"
+    #This is the default profile for local credential, if terraform cloud is not used
+    #profile = "default"
     region = "us-east-1"    
 }
 
