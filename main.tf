@@ -1,6 +1,6 @@
 
 provider "aws" {
-    #This is the default profile for local credential, if terraform cloud is not used
+    #This is the default profile for local credential, if HCP is not used
     #profile = "default"
     region = "us-east-1"    
 }

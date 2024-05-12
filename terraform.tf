@@ -1,5 +1,5 @@
 terraform {
-
+  /* During VCS mode, the Terraform Cloud backend will be used to store the state file.
   cloud {
     organization = "Team_Tom"
 
@@ -7,7 +7,7 @@ terraform {
       name = "my_terraform_aws"
     }
   }
-
+  */
   required_providers {
     aws = {
       source  = "hashicorp/aws"
